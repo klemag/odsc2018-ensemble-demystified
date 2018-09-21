@@ -1,0 +1,7 @@
+venv/
+*.zip
+Dataset/
+.ipynb_checkpoints/
+catboost_info/
+.mypy_cache
+__pycache__
